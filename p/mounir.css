@@ -1,0 +1,159 @@
+body{
+    background-color: #eeeeee;
+}
+
+nav{
+    background-color: #a8ff35;
+    box-shadow: 8px 1px 20px 8px;
+}
+.navbar-brand{
+    font-size: 39px;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
+}
+.nav-item{
+    font-size: 25px;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
+}
+.v1{
+    margin-top: 20px;
+    margin-left: -4%;
+    margin-right: 18%;
+}
+.list-group{
+    position: fixed;
+    top: 0rem;
+    width: 17%;
+    height: 10%;
+    line-height: 31px;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
+    z-index: -1;
+}
+.card{
+    width: 20rem;
+    box-shadow: 8px 1px 20px 8px;
+}
+section{
+    width: 13%;
+    margin-top: 2%;
+    float: right;
+    margin-right: 4%;
+}
+.v1 a{
+    text-decoration: none;
+    background-color: #a8ff35;
+    color: #060602;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: -2%;
+    font-size: 13px;
+    font-weight: 900;
+    position: relative;
+    left: -4%;
+}
+h1{
+font-family: 'Anton', sans-serif;
+font-family: 'Fjalla One', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Rubik', sans-serif;
+font-family: 'Signika Negative', sans-serif;
+margin-top: 2%;
+}
+h2{
+    margin-left: 2%;
+    font-family: 'Anton', sans-serif;
+font-family: 'Fjalla One', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Rubik', sans-serif;
+font-family: 'Signika Negative', sans-serif;
+color: black;
+font-weight: bolder;
+}
+h3{
+    margin-left: 35%;
+    font-family: 'Anton', sans-serif;
+font-family: 'Fjalla One', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Rubik', sans-serif;
+font-family: 'Signika Negative', sans-serif;
+color: crimson;
+font-weight: bolder;
+font-size: 35px;
+margin-top: 1%;
+}
+h5{
+    font-family: 'Anton', sans-serif;
+font-family: 'Fjalla One', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Rubik', sans-serif;
+font-family: 'Signika Negative', sans-serif;
+font-weight: 900;
+
+}
+.card-body{
+    background-color: #7FD4FF;
+
+}
+p{
+    font-family: 'Anton', sans-serif;
+font-family: 'Fjalla One', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Rubik', sans-serif;
+font-family: 'Signika Negative', sans-serif;
+}
+.card1{
+    margin-top: 10%;
+    width: 50%;
+}
+footer{
+    height: 289px;
+    margin-top: 5%;
+}
+.pm{
+    text-align: center;
+    margin-top: 2%;
+}
+.pm a{
+    font-size: 19px;
+    margin: 80px;
+    padding: auto;
+    padding-top: 10px;
+}
+.container p{
+    margin-left: 2%
+}
+
